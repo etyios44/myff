@@ -1,4 +1,4 @@
-# Anonymisation FireFox
+# Protection FireFox
 ## Auteur :  z0S.i0S  - Maj : 10/04/2025
 
 ## Introduction
