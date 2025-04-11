@@ -11,7 +11,12 @@ cf. https://kb.mozillazine.org/User.js_file
 
 Un fichier **user.js** est une autre méthode de modification des préférences, recommandée uniquement pour les utilisateurs avancés. Sauf si vous avez besoin d'un fichier user.js pour un usage spécifique, vous devez utiliser à la place **about:config**. Le fichier user.js n'existe pas par défaut.
 
-about:support => fichier profil
+```sh
+about:support => permet de localiser le fichier profil
+```
+Références de fichiers durcis :
+- https://github.com/arkenfox/user.js
+- https://github.com/pyllyukko/user.js
 
 ## Elements modifiables
 
