@@ -140,8 +140,7 @@ about:support => fichier profil
     - [amiunique](https://www.amiunique.org/)
     - [browserleaks](https://browserleaks.com/)
     - [arkenfox](https://arkenfox.github.io/TZP/tzp.html)
-    - [Firefox Lightbeam](https://github.com/mozilla/lightbeam-we) 
-        cf **chrome://discards** => donne l'activité du navigateur avec les extensions activées et les pages affichées
+    - [Firefox Lightbeam](https://github.com/mozilla/lightbeam-we), équivalent de **chrome://discards** => donne l'activité du navigateur avec les extensions activées et les pages affichées
 
 ## Parts de marché des  navigateurs
 
