@@ -96,7 +96,10 @@ about:support => fichier profil
   - Plugins : 
     - Autoriser les mises à jour automatiques : ${\color{red}OFF}$
 
-- "**about:config**" :
+- "**about:config**" : variable selon  version du navigateur. 
+
+<u>Nota :</u> Chercher par mot clé pour retrouver les paramètres en rapport. Recherches générales : "stream", "update","extensions", "privacy"
+  
   - StartUp Settings : cf "browser"
   - Geolocation : cf "geo"
   - Language / Locale : cf  "local"
@@ -120,8 +123,26 @@ about:support => fichier profil
   - Shutdown Settings : cf "shutdown"
   - Fingerprinting (RFP) : cf "finger"
 
-## Bonus
+## Extensions
 
-- cf https://coveryourtracks.eff.org => outil pour mesurer le niveau de trace du navigateur
- - **chrome://discards** => donne l'activité du navigateur avec les extensions activées et les pages affichées
+- User-Agent : 
+  - [User Agent Switcher](https://addons.mozilla.org/fr/firefox/addon/uaswitcher/)
+  - [Modify Header Value](https://addons.mozilla.org/fr/firefox/addon/modify-header-value/)
+- canvas fingerprinting : 
+  - [canvas fingerprinting](https://fr.wikipedia.org/wiki/Canvas_fingerprinting)
+  - [canvas fingerprinting](https://addons.mozilla.org/fr/firefox/addon/canvas-fingerprint-defender/)
+- empreinte WebGL :
+  - [empreinte WebGL](https://addons.mozilla.org/fr/firefox/addon/webgl-fingerprint-defender/)
+- anti-tracking :
+  - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- Browser Leak Tests :
+    - [coveryourtracks](https://coveryourtracks.eff.org/)
+    - [amiunique](https://www.amiunique.org/)
+    - [browserleaks](https://browserleaks.com/)
+    - [arkenfox](https://arkenfox.github.io/TZP/tzp.html)
+    - [Firefox Lightbeam](https://github.com/mozilla/lightbeam-we) 
+        cf **chrome://discards** => donne l'activité du navigateur avec les extensions activées et les pages affichées
 
+## Parts de marché des  navigateurs
+
+![alt text](image.png)
